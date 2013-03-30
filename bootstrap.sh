@@ -1,6 +1,6 @@
 #!/bin/bash -eu
 
-release_src=https://github.com/downloads/Graylog2
+release_src=http://download.graylog2.org
 graylog2_server=graylog2-server-0.11.0.tar.gz
 graylog2_web_interface=graylog2-web-interface-0.11.0.tar.gz
 graylog2_base=/var/graylog2
