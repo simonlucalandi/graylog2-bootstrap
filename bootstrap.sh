@@ -1,8 +1,8 @@
 #!/bin/bash -eu
 
 release_src=https://github.com/downloads/Graylog2
-graylog2_server=graylog2-server-0.9.4p1.tar.gz
-graylog2_web_interface=graylog2-web-interface-0.9.4p2.tar.gz
+graylog2_server=graylog2-server-0.11.0.tar.gz
+graylog2_web_interface=graylog2-web-interface-0.11.0.tar.gz
 graylog2_base=/var/graylog2
 graylog2_collection_size=650000000
 
